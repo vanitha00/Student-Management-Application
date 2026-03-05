@@ -14,15 +14,9 @@ A Maven-based web application developed using Java Servlets and JDBC to manage s
 - Servlets
 - JSP
 - JDBC
-- PostgreSQL / Oracle SQL
+- PostgreSQL
 - Maven
 - Apache Tomcat
-
-## Project Structure
-- Follows MVC architecture
-- Controller layer using Servlets
-- Data access layer using DAO pattern
-- Relational database integration
 
 ## How to Run
 1. Import the project as a Maven Project in Eclipse or IntelliJ.
